@@ -1,0 +1,66 @@
+h1 {
+    background-color: #C96F3A;
+    color: white;
+    padding: 20px;
+    width: 250px;
+}
+
+.directions {
+    background-color: #FAE6D0;
+    width: 350px;
+}
+
+.directions-text {
+    padding: 5px;
+    color: #59A355;
+}
+
+.random-number {
+    float: left;
+    background-color: #58C889;
+    width: 200px;
+    height: 100px;
+}
+
+.status-text {
+    margin-left: 220px;
+    background-color: #49FDFA;
+    width: 80px;
+    height: 100px;
+}
+.crystal-one {
+    float: left;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.crystal-two {
+    float:left;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.crystal-three {
+    float:left;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.crystal-four {
+    float: left;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.score-title {
+    margin-top: 70px;
+    width: 180px;
+    background-color: #2AA195;
+    color: white;
+}
+
+.score {
+    width: 180px;
+    height: 100px;
+    background: #2AA195;
+}
